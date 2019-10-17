@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="40dp"
-        android:text="2 / 5"
+        android:text="2 / 10"
         android:textSize="40sp"/>
 
 

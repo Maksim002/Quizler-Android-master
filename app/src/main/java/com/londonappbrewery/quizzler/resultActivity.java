@@ -23,7 +23,7 @@ public class resultActivity extends AppCompatActivity {
         int totalScore = settings.getInt("totalScore", 0);
         totalScore +=score;
 
-        resultLabel.setText(score +" / 5");
+        resultLabel.setText(score +" / 10");
         totalScoreLabel.setText("Total Score: "+totalScore);
 
         //Update total score
